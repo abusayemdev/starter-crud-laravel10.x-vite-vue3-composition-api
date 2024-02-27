@@ -1,4 +1,4 @@
-<!-- resources/components/user/profile/Password.vue -->
+<!-- resources/components/user/profile/password.vue -->
 <script setup>
 
 import axios from 'axios';

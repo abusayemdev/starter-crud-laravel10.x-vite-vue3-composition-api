@@ -1,4 +1,4 @@
-<!-- resources/components/user/profile/SocialMedia.vue -->
+<!-- resources/components/user/profile/socialMedia.vue -->
 <script setup>
 
 import axios from 'axios';

@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/setting/View.vue -->
+<!-- resources/js/components/admin/setting/view.vue -->
 <script setup>
 
 import { onMounted } from 'vue';

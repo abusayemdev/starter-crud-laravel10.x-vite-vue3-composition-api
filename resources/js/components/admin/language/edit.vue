@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/language/Edit.vue -->
+<!-- resources/js/components/admin/language/edit.vue -->
 <script setup>
 
 import { onMounted } from 'vue';

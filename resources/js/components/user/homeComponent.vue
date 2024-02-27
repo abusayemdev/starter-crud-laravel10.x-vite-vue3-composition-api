@@ -1,4 +1,4 @@
-<!-- resources/js/components/user/HomeComponent.vue -->
+<!-- resources/js/components/user/homeComponent.vue -->
 <script setup>
 import { asset } from 'routeHelper';
 </script>

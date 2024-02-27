@@ -1,4 +1,4 @@
-<!-- resources/components/user/profile/ProfilePicture.vue -->
+<!-- resources/components/user/profile/profilePicture.vue -->
 <script setup>
 
 import axios from 'axios';

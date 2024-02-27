@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/language/Create.vue -->
+<!-- resources/js/components/admin/language/create.vue -->
 <script setup>
 
 import { reactive } from 'vue';

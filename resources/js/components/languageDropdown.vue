@@ -1,4 +1,4 @@
-<!-- resources/js/components/LanguageDropdown.vue -->
+<!-- resources/js/components/languageDropdown.vue -->
 <script setup>
 
 import { ref } from 'vue';

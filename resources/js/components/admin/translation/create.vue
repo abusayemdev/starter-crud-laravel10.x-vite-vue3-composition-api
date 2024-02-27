@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/translation/Create.vue -->
+<!-- resources/js/components/admin/translation/create.vue -->
 <script setup>
 
 import { ref, reactive, onMounted } from 'vue';

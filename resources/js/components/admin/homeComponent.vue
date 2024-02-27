@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/HomeComponent.vue -->
+<!-- resources/js/components/admin/homeComponent.vue -->
 <script setup>
 
 const lang = localStorage.getItem('lang');

@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/language/Languages.vue -->
+<!-- resources/js/components/admin/language/languages.vue -->
 <script setup>
 
 import { ref, onMounted } from 'vue';

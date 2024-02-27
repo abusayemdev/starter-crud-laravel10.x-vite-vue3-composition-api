@@ -1,4 +1,4 @@
-<!-- resources/js/components/user/auth/CustomerRegister.vue -->
+<!-- resources/js/components/user/auth/customerRegister.vue -->
 <script setup>
 
 import { ref } from 'vue';

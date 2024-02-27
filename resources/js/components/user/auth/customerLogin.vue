@@ -1,4 +1,4 @@
-<!-- resources/js/components/user/auth/CustomerLogin.vue -->
+<!-- resources/js/components/user/auth/customerLogin.vue -->
 <script setup>
 
 import { ref } from 'vue';

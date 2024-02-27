@@ -1,4 +1,4 @@
-<!-- resources/components/user/profile/ProfileSettings.vue -->
+<!-- resources/components/user/profile/profileSettings.vue -->
 <script setup>
 
 import axios from 'axios';

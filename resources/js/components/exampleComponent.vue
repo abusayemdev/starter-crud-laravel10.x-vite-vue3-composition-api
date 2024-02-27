@@ -1,4 +1,4 @@
-<!-- resources/js/components/ExampleComponent.vue -->
+<!-- resources/js/components/exampleComponent.vue -->
 <script setup>
 </script>
 <template>

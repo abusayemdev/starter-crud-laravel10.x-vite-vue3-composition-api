@@ -1,4 +1,4 @@
-<!-- resources/js/components/WelcomeComponent.vue -->
+<!-- resources/js/components/welcomeComponent.vue -->
 <script setup>
 
 import axios from 'axios';

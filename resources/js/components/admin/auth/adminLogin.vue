@@ -1,4 +1,4 @@
-<!-- resources/js/components/admin/auth/AdminLogin.vue -->
+<!-- resources/js/components/admin/auth/adminLogin.vue -->
 <script setup>
 
 import { ref, onMounted } from 'vue';
