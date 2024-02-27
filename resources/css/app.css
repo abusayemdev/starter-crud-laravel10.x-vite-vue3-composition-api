@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-click]{
+    display: none;
+}
+
+html:lang(ar) * {
+    text-align: right;
+    direction: rtl;
+}
+
+/*Arabic language direction*/
+.lang-ar-text{
+    direction:rtl !important; 
+    text-align:right !important;
+}
+  
+.lang-ar-text-position{
+    left:0px !important; 
+    right:unset !important; 
+    direction:rtl !important; 
+    text-align:right !important;
+}
+
+.direction-ltr{
+    direction: ltr;
+}
+
+.direction-ltr-important{
+    direction: ltr !important;
+}
+
+.direction-rtl{
+    direction: rtl;
+}
+
+.direction-rtl-important{
+    direction: rtl;
+}
+
+
+.float-right-before::before {
+    float: right !important;
+}
+
+.has-arrow-left::after{
+right: unset !important;
+left: 10px;
+}
+
+.bx-right-arrow-before{
+    float:left;
+}
+
+.login-divider{
+    margin: 0px 10px;
+}
+.user-login {
+    margin: 0px 13px;
+}
+.right-0{
+    right:0px !important;
+}
+.right-unset{
+    right:unset !important;
+}
+.left-0{
+    left:0px !important;
+}
+.left-unset{
+    left:unset !important;
+}
+
+
+
+  

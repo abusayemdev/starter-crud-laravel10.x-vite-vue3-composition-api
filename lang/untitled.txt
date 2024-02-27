@@ -1,0 +1,3 @@
+"Language" => "Language",
+"Idioma" => "Idioma",
+"اللغة" => "اللغة"،

@@ -1,0 +1,16 @@
+
+php artisan make:migration create_pruducts_table
+php artisan make:model Product -m
+php artisan make:controller Admin\ProductController --resource --model=Product
+php artisan make:controller Admin\LangController --model=Product
+php artisan make:controller Admin\ProductController --model=Product
+php artisan make:controller Api\Admin\ProductnController --resource --api --model=Product
+php artisan make:request Admin\Product\StoreRequest
+php artisan make:request Admin\Product\UpdateRequest
+php artisan make:resource Admin\ProductResource
+php artisan make:export ProductsExport --model=Product
+php artisan make:import ProductsImport --model=Product
+php artisan make:middleware AdminMiddleware
+composer dump-autoload
+php artisan optimize:clear
+php artisan route:list
